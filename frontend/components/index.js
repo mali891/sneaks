@@ -5,5 +5,6 @@ import Nav from './Nav';
 import Meta from './Meta';
 import Items from './Items';
 import Item from './Item';
+import CreateItem from './CreateItem';
 
-export { Page, ErrorMessage, Header, Nav, Meta, Items, Item };
+export { Page, ErrorMessage, Header, Nav, Meta, Items, Item, CreateItem };
